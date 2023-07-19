@@ -1,14 +1,14 @@
-function Translate() { 
+function Translate() {
 	//initialization
-	this.init =  function(attribute, lng){
+	this.init = function(attribute, lng){
 		this.attribute = attribute;
-		this.lng = lng;	
+		this.lng = lng;
 	}
-	//translate 
+	//translate
 	this.process = function(){
 		_self = this;
 		var xrhFile = new XMLHttpRequest();
-		//load content data 
+		//load content data
 		xrhFile.open("GET", "lng/"+this.lng+".json", false);
 		xrhFile.onreadystatechange = function ()
 		{
@@ -25,7 +25,7 @@ function Translate() {
 							elem.innerHTML = LngObject[key]  ;
 						}
 					}
-				
+
 				}
 			}
 		}
