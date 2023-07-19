@@ -1,7 +1,8 @@
 {
 	"title": "NELI Creative - Digital Creative Studio",
 	"home": "Home",
-	"services": "Services",
+  "services": "Services",
+  "about_us": "About Us",
 	"our_Expertises": "our expertises",
 	"our_work": "Our Work",
 	"core_team_members": "Core Team Members",
@@ -51,7 +52,7 @@
 	"customer_2" : " Ngoc Vu",
 	"customer_3" : "Duyen Dang",
 	"testimonial_1" : "“Mr. Trung Hoang and his team have been successful at coaching many of our teams to adopt Agile and they have done so by training teams on methodologies, team leadership and how each role fits into the big picture all the way to training the leadership of the organization on strategic thinking.“",
-	"testimonial_2" : "“It has been a good remote training course. The instructor was outstanding in keeping the students engaged and active in class discussions. Our junior engineers gained valuable and practical basic knowledge on website and mobile app building.“"
+	"testimonial_2" : "“It has been a good remote training course. The instructor was outstanding in keeping the students engaged and active in class discussions. Our junior engineers gained valuable and practical basic knowledge on website and mobile app building.“",
 	"testimonial_3" : "“The professionalism and the knowledge in the Agile training far exceeded my expectations. I would highly recommend (it) to anyone wanting to brush up on their working skills to take a training course with them.”",
 	"job_title_1" : "Founder & CEO - Braly JSC",
 	"job_title_2" : "Project Manager - Sun* Vietnam",
