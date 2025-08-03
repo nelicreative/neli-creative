@@ -1,6 +1,5 @@
 google.com, pub-3496837808275902, DIRECT, f08c47fec0942fa0
 facebook.com, 424707232675769, RESELLER, c3e20eee3f780d68
-facebook.com, 1176930232980746, RESELLER, c3e20eee3f780d68
 applovin.com, 9b7ebb0dff192127cd5f6af4b340eac1, DIRECT
 startapp.com, 159731988, DIRECT
 start.io, 159731988, DIRECT
