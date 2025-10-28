@@ -120,7 +120,6 @@ facebook.com, 424707232675769, DIRECT, c3e20eee3f780d68
 pangleglobal.com, 5003320, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 facebook.com, 1176930232980746, DIRECT, c3e20eee3f780d68
-mintegral.com, your PublisherID, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
 criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
@@ -929,7 +928,6 @@ ushareit.com, 21220307, DIRECT
 start.io, 115550145, DIRECT
 themediagrid.com, 6XGFYQ, DIRECT, 35d5010d7789b49d
 pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
-Resellers as of August 26, 2024
 fyber.com,226554,DIRECT
 acd.op.hicloud.com,PUB_HW_1003,RESELLER
 adform.com,2688,RESELLER,9f5210a2f0999e32
@@ -1138,7 +1136,6 @@ yeahmobi.com,5135535,RESELLER
 yieldlab.net,15465081,RESELLER
 yieldmo.com,3591550211052216798,RESELLER,6a92c77cfc3d2258
 zmaticoo.com,5135655,RESELLER
-1
 vungle.com,[yourVunglePublisherAccountID],DIRECT,c107d686becd2d77
 33across.com,0015a00002egvRSAAY,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
